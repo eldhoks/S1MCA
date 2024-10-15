@@ -1,0 +1,71 @@
+output
+
+Choose option 
+1 Insert at beginning 
+2 Insert at end 
+3 Insert at a position 
+4 Delete at beginning 
+5 Delete at end 
+6 Delete at a position 
+7 Display 
+8 Exit
+1 
+Enter the data to the node 10
+
+Choose option 
+1 Insert at beginning 
+2 Insert at end 
+3 Insert at a position 
+4 Delete at beginning 
+5 Delete at end 
+6 Delete at a position 
+7 Display 
+8 Exit
+1
+Enter the data to the node 20
+
+Choose option 
+1 Insert at beginning 
+2 Insert at end 
+3 Insert at a position 
+4 Delete at beginning 
+5 Delete at end 
+6 Delete at a position 
+7 Display 
+8 Exit
+3
+Enter the position2
+Enter the data to the node 30
+
+Choose option 
+1 Insert at beginning 
+2 Insert at end 
+3 Insert at a position 
+4 Delete at beginning 
+5 Delete at end 
+6 Delete at a position 
+7 Display 
+8 Exit
+7
+Linked list elements are 20 -> 30 -> 10 -> 
+Choose option 
+1 Insert at beginning 
+2 Insert at end 
+3 Insert at a position 
+4 Delete at beginning 
+5 Delete at end 
+6 Delete at a position 
+7 Display 
+8 Exit
+7
+Linked list elements are 20 -> 30 -> 10 -> 
+Choose option 
+1 Insert at beginning 
+2 Insert at end 
+3 Insert at a position 
+4 Delete at beginning 
+5 Delete at end 
+6 Delete at a position 
+7 Display 
+8 Exit
+

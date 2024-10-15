@@ -1,0 +1,81 @@
+OUTPUT
+
+
+Enter the array size:3
+
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+1
+
+ Enter the data:10
+
+ The element is inserted 
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+1
+
+ Enter the data:20
+
+ The element is inserted 
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+1
+
+ Enter the data:30
+
+ The element is inserted 
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+1
+stack is full
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+3
+ 
+ The elements in stack are: 30 20 10
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+2
+
+ poped is 30
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+2
+
+ poped is 20
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+3
+ 
+ The elements in stack are: 10
+ Enter your choice 
+1.For push 
+2.For pop 
+3.For display 
+4.For exit
+                  
+

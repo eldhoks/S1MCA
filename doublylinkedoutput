@@ -1,0 +1,101 @@
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+1
+Enter the data to the node 10
+
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+1
+Enter the data to the node 20
+
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+2
+Enter the data to the node 30
+
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+3
+Enter the position25
+Invalid position
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+4
+Linked list elements are 20 -> 10 -> 30 -> 
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+7
+Enter the position to delete 3
+Deleted element is 30 
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+4
+Linked list elements are 20 -> 10 -> 
+Choose option 
+1) Insert at beginning 
+2) Insert at end 
+3) Insert at a position 
+4) Display 
+5)Delete at beginning 
+6) Delete at end 
+7) Delete at a position 
+8) Search 
+9) Exit
+9
+

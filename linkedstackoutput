@@ -1,0 +1,72 @@
+output
+
+
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+1
+Enter the data to the node 10
+
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+1
+Enter the data to the node 20
+
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+1
+Enter the data to the node 30
+
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+2
+Deleted element is 30 
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+3
+Enter the data to be searched 20
+Element 20 is found at 2 
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+3
+Enter the data to be searched 50
+ Element is not found
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+4
+Linked list elements are 10 -> 20 -> 
+Choose option 
+1)push 
+2)pop 
+3)Search 
+4)Display 
+5)Exit
+5
+

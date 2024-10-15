@@ -1,0 +1,67 @@
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 1
+Enter the data to the node 10
+
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 1
+Enter the data to the node 20
+
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 1
+Enter the data to the node 30
+
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 1 
+Enter the data to the node 40
+
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 2
+10->20->30->40->
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 3
+40->30->20->10->
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+Choose Option 4
+10->20->30->40->
+1)Insert 
+2)Preorder
+3)Postorder 
+4)Inorder 
+5)Delete 
+6)Exit
+

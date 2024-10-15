@@ -1,0 +1,47 @@
+OUTPUT
+
+
+enter the size 5
+
+ enter your choice 
+1.for insert 
+2.for delete 
+3.for display 
+4.for exit 
+1
+ 
+ enter the data :10
+
+ the element is inserted 
+
+ enter your choice 
+1.for insert 
+2.for delete 
+3.for display 
+4.for exit1
+ 
+ enter the data :20
+
+ the element is inserted 
+
+ enter your choice 
+1.for insert 
+2.for delete 
+3.for display 
+4.for exit3
+
+ elements are	 10	 20
+ enter your choice 
+1.for insert 
+2.for delete 
+3.for display 
+4.for exit2
+
+ the deleted element is 10 
+
+ enter your choice 
+1.for insert 
+2.for delete 
+3.for display 
+4.for exit4
+

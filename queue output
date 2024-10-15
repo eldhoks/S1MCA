@@ -1,0 +1,39 @@
+OUTPUT
+
+enter the array size:4
+
+ 1.for enqueue 
+2.for dequeue 
+3.for display 
+4. exit 
+ 1
+ 
+ Enter the data to be inserted:10
+ The element is inserted
+ 1.for enqueue 
+2.for dequeue 
+3.for display 
+4. exit 
+ 1
+ 
+ Enter the data to be inserted:20
+ The element is inserted
+ 1.for enqueue 
+2.for dequeue 
+3.for display 
+4. exit 
+ 2
+ 10 is deleted 
+ 1.for enqueue 
+2.for dequeue 
+3.for display 
+4. exit 
+ 3
+
+ The elements are:	 20
+ 1.for enqueue 
+2.for dequeue 
+3.for display 
+4. exit 
+ 4
+
